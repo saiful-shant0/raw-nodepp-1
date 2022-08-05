@@ -1,0 +1,7 @@
+.vscode
+.data
+node_modules
+package-lock.json
+yarn.lock
+.eslintrc.json
+package.json
